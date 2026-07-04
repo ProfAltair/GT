@@ -1,0 +1,6 @@
+{
+  "name": "Guia do Trabalhador",
+  "description": "Calculadora de rescisão, férias, 13º salário, FGTS, simulação de aposentadoria e assistente virtual de direitos trabalhistas (CLT).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
